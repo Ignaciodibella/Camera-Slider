@@ -8,3 +8,5 @@ Construcción del software y hardware para la elaboración de un slider para tim
 - Pantalla LCD 16x2 I2C
 - Dialer ? x 1
 - Botonoes x ?
+
+### Diagrama de Conexionado de Componentes
