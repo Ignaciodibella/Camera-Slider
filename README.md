@@ -1,5 +1,9 @@
 # Camera-Slider
+
+### Objetivos del Proyecto:
 Construcción del software y hardware para la elaboración de un slider para timelapses y videos con Arduino y motores paso a paso
+
+### Características y Formas de Uso:
 
 ### Componentes Empleados:
 - Arduino Mega x 1
@@ -10,3 +14,5 @@ Construcción del software y hardware para la elaboración de un slider para tim
 - Botonoes x ?
 
 ### Diagrama de Conexionado de Componentes
+
+### Comentarios y Próximas Mejoras/Funcionaliades
